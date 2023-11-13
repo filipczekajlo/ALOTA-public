@@ -1,0 +1,108 @@
+{
+  "Inventories": {
+    "EquippedAttacks": {
+      "Slots": [
+        {
+          "item": {
+            "Id": "Air Big Bullet",
+            "TotalDamage": 12,
+            "ChiCost": 20
+          },
+          "amount": 1
+        },
+        {
+          "item": {
+            "Id": "Air Cone",
+            "TotalDamage": 17,
+            "ChiCost": 24
+          },
+          "amount": 1
+        },
+        {
+          "item": {
+            "Id": "Air Field",
+            "TotalDamage": 30,
+            "ChiCost": 60
+          },
+          "amount": 1
+        },
+        {
+          "item": {
+            "Id": "Air Ground",
+            "TotalDamage": 24,
+            "ChiCost": 42
+          },
+          "amount": 1
+        }
+      ]
+    },
+    "UnequippedAttacks": {
+      "Slots": [
+        {
+          "item": {
+            "Id": "Air Heal",
+            "TotalDamage": 20,
+            "ChiCost": 34
+          },
+          "amount": 1
+        },
+        {
+          "item": {
+            "Id": "Air Small Bullet",
+            "TotalDamage": 7,
+            "ChiCost": 14
+          },
+          "amount": 1
+        },
+        {
+          "item": {
+            "Id": "Air Sprint",
+            "TotalDamage": 20,
+            "ChiCost": 20
+          },
+          "amount": 1
+        },
+        {
+          "item": {
+            "Id": "Air Wall",
+            "TotalDamage": 22,
+            "ChiCost": 33
+          },
+          "amount": 1
+        },
+        {
+          "item": {
+            "Id": "",
+            "TotalDamage": 0,
+            "ChiCost": 0
+          },
+          "amount": 1
+        },
+        {
+          "item": {
+            "Id": "",
+            "TotalDamage": 0,
+            "ChiCost": 0
+          },
+          "amount": 1
+        },
+        {
+          "item": {
+            "Id": "",
+            "TotalDamage": 0,
+            "ChiCost": 0
+          },
+          "amount": 1
+        },
+        {
+          "item": {
+            "Id": "",
+            "TotalDamage": 0,
+            "ChiCost": 0
+          },
+          "amount": 1
+        }
+      ]
+    }
+  }
+}
