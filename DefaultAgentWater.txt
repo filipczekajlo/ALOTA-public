@@ -4,7 +4,8 @@
       "Slots": [
         {
           "item": {
-            "Id": "Water Big Bullet",
+            "Id": 24,
+            "Name": "Water Big Bullet",
             "TotalDamage": 12,
             "ChiCost": 20
           },
@@ -12,7 +13,8 @@
         },
         {
           "item": {
-            "Id": "Water Cone",
+            "Id": 25,
+            "Name": "Water Cone",
             "TotalDamage": 17,
             "ChiCost": 24
           },
@@ -20,7 +22,8 @@
         },
         {
           "item": {
-            "Id": "Water Field",
+            "Id": 26,
+            "Name": "Water Field",
             "TotalDamage": 30,
             "ChiCost": 60
           },
@@ -28,7 +31,8 @@
         },
         {
           "item": {
-            "Id": "Water Ground",
+            "Id": 27,
+            "Name": "Water Ground",
             "TotalDamage": 24,
             "ChiCost": 42
           },
@@ -40,7 +44,8 @@
       "Slots": [
         {
           "item": {
-            "Id": "Water Heal",
+            "Id": 28,
+            "Name": "Water Heal",
             "TotalDamage": 20,
             "ChiCost": 34
           },
@@ -48,7 +53,8 @@
         },
         {
           "item": {
-            "Id": "Water Small Bullet",
+            "Id": 29,
+            "Name": "Water Small Bullet",
             "TotalDamage": 7,
             "ChiCost": 14
           },
@@ -56,7 +62,8 @@
         },
         {
           "item": {
-            "Id": "Water Sprint",
+            "Id": 30,
+            "Name": "Water Sprint",
             "TotalDamage": 20,
             "ChiCost": 20
           },
@@ -64,7 +71,8 @@
         },
         {
           "item": {
-            "Id": "Water Wall",
+            "Id": 31,
+            "Name": "Water Wall",
             "TotalDamage": 22,
             "ChiCost": 33
           },
@@ -72,7 +80,8 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "",
             "TotalDamage": 0,
             "ChiCost": 0
           },
@@ -80,7 +89,8 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "",
             "TotalDamage": 0,
             "ChiCost": 0
           },
@@ -88,7 +98,8 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "",
             "TotalDamage": 0,
             "ChiCost": 0
           },
@@ -96,14 +107,14 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "",
             "TotalDamage": 0,
             "ChiCost": 0
           },
           "amount": 1
         }
       ]
-    },
-    "quest-name": null
+    }
   }
 }

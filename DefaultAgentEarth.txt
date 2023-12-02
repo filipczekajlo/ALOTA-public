@@ -4,7 +4,8 @@
       "Slots": [
         {
           "item": {
-            "Id": "Earth Big Bullet",
+            "Id": 8,
+            "Name": "Earth Big Bullet",
             "TotalDamage": 12,
             "ChiCost": 20
           },
@@ -12,7 +13,8 @@
         },
         {
           "item": {
-            "Id": "Earth Cone",
+            "Id": 9,
+            "Name": "Earth Cone",
             "TotalDamage": 17,
             "ChiCost": 24
           },
@@ -20,7 +22,8 @@
         },
         {
           "item": {
-            "Id": "Earth Field",
+            "Id": 10,
+            "Name": "Earth Field",
             "TotalDamage": 30,
             "ChiCost": 60
           },
@@ -28,7 +31,8 @@
         },
         {
           "item": {
-            "Id": "Earth Ground",
+            "Id": 11,
+            "Name": "Earth Ground",
             "TotalDamage": 24,
             "ChiCost": 42
           },
@@ -40,7 +44,8 @@
       "Slots": [
         {
           "item": {
-            "Id": "Earth Heal",
+            "Id": 12,
+            "Name": "Earth Heal",
             "TotalDamage": 20,
             "ChiCost": 34
           },
@@ -48,7 +53,8 @@
         },
         {
           "item": {
-            "Id": "Earth Small Bullet",
+            "Id": 13,
+            "Name": "Earth Small Bullet",
             "TotalDamage": 7,
             "ChiCost": 14
           },
@@ -56,7 +62,8 @@
         },
         {
           "item": {
-            "Id": "Earth Sprint",
+            "Id": 14,
+            "Name": "Earth Sprint",
             "TotalDamage": 20,
             "ChiCost": 20
           },
@@ -64,7 +71,8 @@
         },
         {
           "item": {
-            "Id": "Earth Wall",
+            "Id": 15,
+            "Name": "Earth Wall",
             "TotalDamage": 22,
             "ChiCost": 33
           },
@@ -72,7 +80,8 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "",
             "TotalDamage": 0,
             "ChiCost": 0
           },
@@ -80,7 +89,8 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "",
             "TotalDamage": 0,
             "ChiCost": 0
           },
@@ -88,7 +98,8 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "",
             "TotalDamage": 0,
             "ChiCost": 0
           },
@@ -96,14 +107,14 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "", 
             "TotalDamage": 0,
             "ChiCost": 0
           },
           "amount": 1
         }
       ]
-    },
-    "quest-name": null
+    }
   }
 }

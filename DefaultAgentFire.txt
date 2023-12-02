@@ -4,7 +4,8 @@
       "Slots": [
         {
           "item": {
-            "Id": "Fire Big Bullet",
+            "Id": 16,
+            "Name": "Fire Big Bullet",
             "TotalDamage": 12,
             "ChiCost": 20
           },
@@ -12,7 +13,8 @@
         },
         {
           "item": {
-            "Id": "Fire Cone",
+            "Id": 17,
+            "Name": "Fire Cone",
             "TotalDamage": 17,
             "ChiCost": 24
           },
@@ -20,7 +22,8 @@
         },
         {
           "item": {
-            "Id": "Fire Field",
+            "Id": 18
+            "Name": "Fire Field",
             "TotalDamage": 30,
             "ChiCost": 60
           },
@@ -28,6 +31,7 @@
         },
         {
           "item": {
+            "Id": 19,
             "Id": "Fire Ground",
             "TotalDamage": 24,
             "ChiCost": 42
@@ -40,7 +44,8 @@
       "Slots": [
         {
           "item": {
-            "Id": "Fire Heal",
+            "Id": 20,
+            "Name": "Fire Heal",
             "TotalDamage": 20,
             "ChiCost": 34
           },
@@ -48,7 +53,8 @@
         },
         {
           "item": {
-            "Id": "Fire Small Bullet",
+            "Id": 21,
+            "Name": "Fire Small Bullet",
             "TotalDamage": 7,
             "ChiCost": 14
           },
@@ -56,7 +62,8 @@
         },
         {
           "item": {
-            "Id": "Fire Sprint",
+            "Id": 22,
+            "Name": "Fire Sprint",
             "TotalDamage": 20,
             "ChiCost": 20
           },
@@ -64,7 +71,8 @@
         },
         {
           "item": {
-            "Id": "Fire Wall",
+            "Id": 23,
+            "Name": "Fire Wall",
             "TotalDamage": 22,
             "ChiCost": 33
           },
@@ -72,7 +80,8 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "", 
             "TotalDamage": 0,
             "ChiCost": 0
           },
@@ -80,7 +89,8 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "", 
             "TotalDamage": 0,
             "ChiCost": 0
           },
@@ -88,7 +98,8 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "", 
             "TotalDamage": 0,
             "ChiCost": 0
           },
@@ -96,14 +107,14 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "", 
             "TotalDamage": 0,
             "ChiCost": 0
           },
           "amount": 1
         }
       ]
-    },
-    "quest-name": null
+    }
   }
 }

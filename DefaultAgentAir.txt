@@ -4,7 +4,8 @@
       "Slots": [
         {
           "item": {
-            "Id": "Air Big Bullet",
+            "Id": 0,
+            "Name": "Air Big Bullet",
             "TotalDamage": 12,
             "ChiCost": 20
           },
@@ -12,7 +13,8 @@
         },
         {
           "item": {
-            "Id": "Air Cone",
+            "Id": 1,
+            "Name": "Air Cone",
             "TotalDamage": 17,
             "ChiCost": 24
           },
@@ -20,7 +22,8 @@
         },
         {
           "item": {
-            "Id": "Air Field",
+            "Id": 2,
+            "Name": "Air Field",
             "TotalDamage": 30,
             "ChiCost": 60
           },
@@ -28,7 +31,8 @@
         },
         {
           "item": {
-            "Id": "Air Ground",
+            "Id": 3,
+            "Name": "Air Ground",
             "TotalDamage": 24,
             "ChiCost": 42
           },
@@ -40,7 +44,8 @@
       "Slots": [
         {
           "item": {
-            "Id": "Air Heal",
+            "Id": 4,
+            "Name": "Air Heal",
             "TotalDamage": 20,
             "ChiCost": 34
           },
@@ -48,7 +53,8 @@
         },
         {
           "item": {
-            "Id": "Air Small Bullet",
+            "Id": 5,
+            "Name": "Air Small Bullet",
             "TotalDamage": 7,
             "ChiCost": 14
           },
@@ -56,7 +62,8 @@
         },
         {
           "item": {
-            "Id": "Air Sprint",
+            "Id": 6,
+            "Name": "Air Sprint",
             "TotalDamage": 20,
             "ChiCost": 20
           },
@@ -64,7 +71,8 @@
         },
         {
           "item": {
-            "Id": "Air Wall",
+            "Id": 7,
+            "Name": "Air Wall",
             "TotalDamage": 22,
             "ChiCost": 33
           },
@@ -72,7 +80,8 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "",
             "TotalDamage": 0,
             "ChiCost": 0
           },
@@ -80,7 +89,8 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "",
             "TotalDamage": 0,
             "ChiCost": 0
           },
@@ -88,7 +98,8 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "",
             "TotalDamage": 0,
             "ChiCost": 0
           },
@@ -96,7 +107,8 @@
         },
         {
           "item": {
-            "Id": "",
+            "Id": -1,
+            "Name": "",
             "TotalDamage": 0,
             "ChiCost": 0
           },
