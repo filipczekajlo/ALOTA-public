@@ -22,7 +22,7 @@
         },
         {
           "item": {
-            "Id": 18
+            "Id": 18,
             "Name": "Fire Field",
             "TotalDamage": 30,
             "ChiCost": 60
