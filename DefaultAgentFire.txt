@@ -32,7 +32,7 @@
         {
           "item": {
             "Id": 19,
-            "Id": "Fire Ground",
+            "Name": "Fire Ground",
             "TotalDamage": 24,
             "ChiCost": 42
           },
